@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrredhariom1&style=for-the-badge&color=blue" alt="Profile v>
-  <h1 align="center" style="color: #00BCD4;">👑 MR RED HARIOM: THE 3D DIGITAL ARCHITECT 🚀</h1>
+  <h1 align="center" style="color: #00BCD4;">👑 MR RED SONU: THE 3D DIGITAL ARCHITECT 🚀</h1>
 </div>
 
 <p align="center">
@@ -60,7 +60,7 @@
   <a href="http://mrredhariom3-space-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white>
   </a>
-  <a href="https://www.instagram.com/redx_weesh007" target="_blank">
+  <a href="https://www.instagram.com/sonu^mehra__18" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=wh>
   </a>
   <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
