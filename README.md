@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrredsonu&style=for-the-badge&color=blue" alt=>
-  <h1 align="center" style="color: #00BCD4;">👑 MR RED SONU: THE 3D DIGITAL ARCHITECT 🚀</h1>
+  <img src="https://komarev.com/ghpvc/?username=mrredhariom1&style=for-the-badge&color=blue" alt=>
+  <h1 align="center" style="color: #00BCD4;">👑 MR RED HARIOM: THE 3D DIGITAL ARCHITECT 🚀</h1>
 </div>
 
 <p align="center">
@@ -16,8 +16,7 @@
 
 <h2 align="center" style="color: #FF5733;">🛠️ MY POWER-PACKED TOOLKIT & SKILLS STACK</h2>
 
-<div align="center">
-  <h3 style="color: #9C27B0;">✨ 3D Design & Editing Studio</h3>
+<div align="center">                                                                                <h3 style="color: #9C27B0;">✨ 3D Design & Editing Studio</h3>
   <img src="https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColo>
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoCol>
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe>
@@ -49,7 +48,7 @@
 <h2 align="center" style="color: #9C27B0;">📊 MY HIGH-CONTRAST GITHUB VITALS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrredsonu&show_icons=true&them>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrredhariom1&show_icons=true&them>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredhariom1&layout=co>
 </p>
@@ -62,16 +61,13 @@
   <a href="http://mrredhariom3-space-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoC>
   </a>
-  <a href="https://www.instagram.com/sonu_mehra__18" target="_blank">
+  <a href="https://www.instagram.com/redx_weesh007" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo>
   </a>
   <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logo>
   </a>
 </p>
-
-
-
 
 
 
